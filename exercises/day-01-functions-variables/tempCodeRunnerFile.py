@@ -1,0 +1,2 @@
+
+print(*s.split(), sep="...")
