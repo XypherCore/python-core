@@ -101,7 +101,7 @@ Day 21 onward. 2-3 projects, defined at the start of the block, not before.
 A box is ticked only when the day's work is committed.
 
 **Block 1: Foundations**
-- [ ] Day 01: Functions, variables
+- [x] Day 01: Functions, variables
 - [ ] Day 02: Conditionals
 - [ ] Day 03: Loops
 - [ ] Day 04: Exceptions
